@@ -23,14 +23,7 @@
 
 This dashboard was developed as a personal side project to help visualize and track **Club Publix engagement** performance across Publix stores. It's designed for practical use at any level of store management—from **District Managers** seeking a high-level view to **Customer Service Managers** and **ACSMs** monitoring weekly performance.
 
-> 💡 **Note:** This dashboard is not an official Publix product. It is a personal project, built independently using data I manually compile from weekly performance emails sent to stores.
-
-Each Monday, stores receive an email with engagement stats including:
-- **Engaged Transaction %** (percentage of transactions tied to a Club Publix member)
-- **Store Rank** within the district
-- **Quarter-to-Date %**
-
-I extract that information manually and enter it into a spreadsheet, which is then used to power the dashboard.
+> 💡 **Note:** This dashboard is not an official Publix product. It is a personal project, I've built independently.
 
 ---
 
@@ -67,8 +60,6 @@ I extract that information manually and enter it into a spreadsheet, which is th
    Recommended additional columns:
    - `Weekly Rank` - Store's rank within the district
    - `Quarter to Date %` - Cumulative engagement for the quarter
-
-   > 💡 **Note:** This dashboard works with manually compiled data from weekly engagement emails. You'll need to extract the numbers from those emails and create your own CSV/Excel file.
 
 ### 2. **Access the Dashboard**
    
@@ -148,7 +139,7 @@ If you're in retail operations or corporate and want to discuss this project—o
 
 This project is **not affiliated with or endorsed by Publix Super Markets, Inc.**
 
-The dashboard itself contains **no embedded data** from Publix systems or communications. It is a standalone tool designed to work with **manually created data files** based on weekly store-level engagement emails.
+The dashboard itself contains **no embedded data** from Publix systems or communications. It is a standalone tool designed to work with **manually created data files**.
 
 All data used in the dashboard is input manually by the user, and the dashboard performs all processing locally. **No customer data, employee records, internal systems, or confidential information are stored or shared.**
 
