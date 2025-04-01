@@ -17,10 +17,6 @@
   <a href="#-disclaimer">Disclaimer</a>
 </p>
 
-<p align="center">
-  <img src="images/dash.gif" alt="Dashboard GIF" />
-</p>
-
 ---
 
 ## 📋 Project Overview
