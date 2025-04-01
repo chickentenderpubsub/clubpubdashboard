@@ -77,7 +77,7 @@ I extract that information manually and enter it into a spreadsheet, which is th
 ### 2. **Access the Dashboard**
    
    **Option A: Use the Online Version (Recommended)**
-   - Access the dashboard directly at [Streamlit Community Cloud](https://clubpubdashboard.streamlit.app)
+   - Access the dashboard directly at [Streamlit Community Cloud](https://clubpubdash.streamlit.app)
    - No installation required - just open the link in your browser
    
    **Option B: Run Locally (For Advanced Users)**
